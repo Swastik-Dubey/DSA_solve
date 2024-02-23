@@ -14,3 +14,13 @@ int main()
         }
     }
 } 
+
+// s="geeksforgeeks"
+// a=[0]*26
+// l=len(s)
+// for i in range(0,l):
+//     a[ord(s[i])-ord('a')]+=1
+    
+// for i in range(0,26):
+//     if (a[i]>1):
+//         print(chr(ord("a")+i)," ",a[i],"\n")
