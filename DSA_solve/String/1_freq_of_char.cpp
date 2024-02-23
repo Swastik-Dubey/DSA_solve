@@ -14,7 +14,9 @@ int main()
         }
     }
 } 
+ 
 
+//  python
 // s="geeksforgeeks"
 // a=[0]*26
 // l=len(s)
